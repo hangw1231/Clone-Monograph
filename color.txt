@@ -1,4 +1,0 @@
-Home : #d25a6e
-About : #4387f9
-Services : #8756f0
-Contact : #c3fc27
